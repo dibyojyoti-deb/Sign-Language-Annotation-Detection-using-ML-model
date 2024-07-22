@@ -1,0 +1,5 @@
+train: C:\Users\Dibyojyoti Deb\Desktop\YOLOv8\data\train\images
+val: C:\Users\Dibyojyoti Deb\Desktop\YOLOv8\data\test\images
+
+nc: 6
+names: ['Hello', 'IloveYou', 'No', 'Please', 'Thanks', 'Yes']
