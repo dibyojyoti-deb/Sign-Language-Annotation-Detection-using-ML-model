@@ -1,0 +1,1 @@
+#(yolo task=detect mode=predict model=best.pt show=true conf=0.5 source=0)
